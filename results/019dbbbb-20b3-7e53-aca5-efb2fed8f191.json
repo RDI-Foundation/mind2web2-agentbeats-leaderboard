@@ -1,0 +1,309 @@
+{
+  "status": "completed",
+  "participants": {
+    "green": "019dbae8-6669-7942-8297-9874a9ede67c",
+    "agent": "019d20b7-8ecc-7011-8de6-e1eee372d3bf"
+  },
+  "results": [
+    {
+      "domain": "test_set",
+      "score": 0.5833333333333333,
+      "max_score": 6,
+      "avg_score": 0.09722222222222221,
+      "task_scores": {
+        "la_visit_hotel": 0.0,
+        "find_puppies": 0.0,
+        "2024_film_premiere": 0.0,
+        "rhone_top_wine": 0.0,
+        "city_info": 0.3333333333333333,
+        "origami_chinese_zodiac": 0.25
+      },
+      "time_used": 1766.9884152412415
+    },
+    {
+      "domain": "test_set",
+      "score": 0.3111111111111111,
+      "max_score": 6,
+      "avg_score": 0.05185185185185185,
+      "task_scores": {
+        "foster_dogs": 0.0,
+        "rick_and_morty_planets": 0.1111111111111111,
+        "cleveland_museum": 0.2,
+        "largest_city_flights": 0.0,
+        "active_stock": 0.0,
+        "oscar_A24": 0.0
+      },
+      "time_used": 1669.9743168354034
+    },
+    {
+      "domain": "test_set",
+      "score": 0.75,
+      "max_score": 6,
+      "avg_score": 0.125,
+      "task_scores": {
+        "rl_course_book": 0.0,
+        "oscar_streaming": 0.0,
+        "las_vegas_experience": 0.3333333333333333,
+        "french_election_2022": 0.16666666666666666,
+        "ai_job_seeking": 0.0,
+        "closet_picks": 0.25
+      },
+      "time_used": 2253.27787065506
+    },
+    {
+      "domain": "test_set",
+      "score": 0.6666666666666666,
+      "max_score": 6,
+      "avg_score": 0.1111111111111111,
+      "task_scores": {
+        "paper_collaboration": 0.0,
+        "conference_sponsor_search": 0.0,
+        "game_awards": 0.16666666666666666,
+        "london_edinburgh_travel": 0.0,
+        "apple_watch": 0.5,
+        "search_disease": 0.0
+      },
+      "time_used": 1130.6858654022217
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "manhattan_restaurants": 0.0,
+        "gas_stations": 0.0,
+        "county_AQI": 0.0,
+        "perplexity_failure": 0.0,
+        "search_summarize_arxiv": 0.0,
+        "artifact_repatriation": 0.0
+      },
+      "time_used": 79.19565916061401
+    },
+    {
+      "domain": "test_set",
+      "score": 0.8466666666666666,
+      "max_score": 6,
+      "avg_score": 0.1411111111111111,
+      "task_scores": {
+        "gcg_followup": 0.0,
+        "coursera_uk": 0.0,
+        "sephora_moistrizer": 0.0,
+        "pet_food_vet": 0.16666666666666666,
+        "baltimore_marc_station": 0.0,
+        "marijuana_caregiver": 0.6799999999999999
+      },
+      "time_used": 1665.6144473552704
+    },
+    {
+      "domain": "test_set",
+      "score": 1.3833333333333333,
+      "max_score": 6,
+      "avg_score": 0.23055555555555554,
+      "task_scores": {
+        "phd_program_statistics": 0.0,
+        "best_selling_foundations": 0.0,
+        "marvel_rivals": 1.0,
+        "goodreads_winner": 0.0,
+        "cs_master_toefl": 0.3,
+        "sim_racing_hardware": 0.08333333333333333
+      },
+      "time_used": 3413.225478887558
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "solar_eclipses": 0.0,
+        "mazda_production": 0.0,
+        "piano_concert": 0.0,
+        "han_alumni_academia": 0.0,
+        "cv_scholar": 0.0,
+        "blazer_allergy": 0.0
+      },
+      "time_used": 276.9779782295227
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "cyberpunk_music": 0.0,
+        "heart_failure_doctor": 0.0,
+        "spinning_class": 0.0,
+        "meditation_app": 0.0,
+        "bls_occupations": 0.0,
+        "plan_nlp_learning": 0.0
+      },
+      "time_used": 189.97506189346313
+    },
+    {
+      "domain": "test_set",
+      "score": 0.5,
+      "max_score": 6,
+      "avg_score": 0.08333333333333333,
+      "task_scores": {
+        "hf_vqa_dataset": 0.0,
+        "mllm_researcher": 0.0,
+        "startups_series_b": 0.0,
+        "dc_comics_injustice": 0.0,
+        "plants_italy": 0.5,
+        "boeing_swe_jobs": 0.0
+      },
+      "time_used": 543.138872385025
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "houses_texas": 0.0,
+        "boston_celtics": 0.0,
+        "diseases_hospital": 0.0,
+        "store_seattle": 0.0,
+        "moroccan_couscous": 0.0,
+        "plastic_grades": 0.0
+      },
+      "time_used": 129.32002806663513
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "broadway_plan": 0.0,
+        "student_email": 0.0,
+        "drone_delivery": 0.0,
+        "hypeawards_twice_brand": 0.0,
+        "popular_ai_books": 0.0,
+        "music_price": 0.0
+      },
+      "time_used": 752.0501992702484
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "pritzker_prize_winner": 0.0,
+        "buy_kobe_shoes_reverse_swoosh": 0.0,
+        "supreme_court_230": 0.0,
+        "edgar_books": 0.0,
+        "ikea_shopping_list": 0.0,
+        "nasa_launch_crew": 0.0
+      },
+      "time_used": 670.3154242038727
+    },
+    {
+      "domain": "test_set",
+      "score": 1.5666666666666667,
+      "max_score": 6,
+      "avg_score": 0.2611111111111111,
+      "task_scores": {
+        "ingredient_safety": 0.0,
+        "buy_stroller": 0.0,
+        "protein_vis_software": 1.0,
+        "esport_player": 0.16666666666666666,
+        "nba_career_high": 0.2,
+        "telescopes_list": 0.2
+      },
+      "time_used": 2828.317471265793
+    },
+    {
+      "domain": "test_set",
+      "score": 0.6666666666666666,
+      "max_score": 6,
+      "avg_score": 0.1111111111111111,
+      "task_scores": {
+        "federal_reserve": 0.0,
+        "ra_vip_ticket": 0.0,
+        "buzzer_beater": 0.0,
+        "instrument_in_met": 0.0,
+        "tennis_racket": 0.0,
+        "nba_player_china_tour": 0.6666666666666666
+      },
+      "time_used": 2482.00763463974
+    },
+    {
+      "domain": "test_set",
+      "score": 0.9666666666666667,
+      "max_score": 6,
+      "avg_score": 0.16111111111111112,
+      "task_scores": {
+        "tesla_travel": 0.0,
+        "ios_num_iphone_model": 0.0,
+        "rag_repo": 0.1,
+        "nintendo_games": 0.0,
+        "female_scholarships": 0.2,
+        "captain_america_starring": 0.6666666666666666
+      },
+      "time_used": 1891.0440168380737
+    },
+    {
+      "domain": "test_set",
+      "score": 0.25,
+      "max_score": 6,
+      "avg_score": 0.041666666666666664,
+      "task_scores": {
+        "film_director": 0.0,
+        "rare_disease": 0.0,
+        "car_insurance": 0.0,
+        "tofu_lunch": 0.25,
+        "jojo_references": 0.0,
+        "nlp_faculty": 0.0
+      },
+      "time_used": 520.5551385879517
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "find_apartment": 0.0,
+        "just_bieber_friend": 0.0,
+        "research_car": 0.0,
+        "cat_adoption": 0.0,
+        "nobel_nationalities": 0.0,
+        "tokyo_filming_location": 0.0
+      },
+      "time_used": 3915.150072813034
+    },
+    {
+      "domain": "test_set",
+      "score": 0.125,
+      "max_score": 6,
+      "avg_score": 0.020833333333333332,
+      "task_scores": {
+        "top_gear_power_time_best": 0.0,
+        "chinese_dish": 0.0,
+        "nobel_scholar": 0.0,
+        "restaurant_tuesday": 0.0,
+        "find_bikes": 0.0,
+        "just_dance": 0.125
+      },
+      "time_used": 461.32010793685913
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "find_daycare": 0.0,
+        "chris_evans": 0.0,
+        "wssa_female_65": 0.0,
+        "openreview_papers": 0.0,
+        "review_articles_headphones": 0.0,
+        "kids_stem": 0.0
+      },
+      "time_used": 814.0825777053833
+    }
+  ]
+}
