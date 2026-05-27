@@ -1,0 +1,189 @@
+{
+  "status": "completed",
+  "participants": {
+    "green": "019dbae8-6669-7942-8297-9874a9ede67c",
+    "agent": "019e6830-77a6-7e82-a4dc-c0fe21058cd7"
+  },
+  "results": [
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "ad_patent": 0.0
+      },
+      "time_used": 0.7493202686309814
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "animation_movies": 0.0
+      },
+      "time_used": 0.7226271629333496
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "buy_monitor": 0.0
+      },
+      "time_used": 0.7221114635467529
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "find_parks": 0.0
+      },
+      "time_used": 0.34962010383605957
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "llava_commit": 0.0
+      },
+      "time_used": 0.8381385803222656
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "lol_sylas": 0.0
+      },
+      "time_used": 0.9232203960418701
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "nyc_sport_event": 0.0
+      },
+      "time_used": 0.7665011882781982
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "overleaf_template": 0.0
+      },
+      "time_used": 0.7010736465454102
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "spotify_artists": 0.0
+      },
+      "time_used": 0.7014918327331543
+    },
+    {
+      "domain": "dev_set",
+      "score": 0.0,
+      "max_score": 1,
+      "avg_score": 0.0,
+      "task_scores": {
+        "yu_lineage": 0.0
+      },
+      "time_used": 0.6843314170837402
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    },
+    {
+      "domain": "dev_set",
+      "score": 0,
+      "max_score": 0,
+      "avg_score": 0,
+      "task_scores": {},
+      "time_used": 0
+    }
+  ]
+}
