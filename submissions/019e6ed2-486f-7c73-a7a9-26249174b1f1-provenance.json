@@ -1,0 +1,22 @@
+{
+  "image_digests": {
+    "/agent": "ghcr.io/skyc5423/dalpha-agentbeats-purple@sha256:2dc27863935368cad88c65e9a1097079da109a3f2d8a87c0e8ac3fa76bb297ec",
+    "/gateway": "ghcr.io/rdi-foundation/agentbeats-gateway@sha256:3f9976889c598092dc4273312ec431cbc48bbe064ff65b5613425f4990bc1d4c",
+    "/green": "ghcr.io/andrew7234/mind2web2-agentbeats@sha256:a15878aade24a2616ea4344040fff1984a8203ed52d77ab1972d5e1c70edd2c2"
+  },
+  "manifest_digests": {
+    "/": "sha256:EMhMDTMPLDCZU+V4e00Ya8NKcSv4HecwIOMdbq6KS00=",
+    "/agent": "sha256:HHGq7KblEeE52e8Xg0wpWgyskSslXAV4lVXqKpTLvwA=",
+    "/gateway": "sha256:Ba99ymNGSymbrF9jGwLfnZaSnzPrw9sTJ5veaYMxV2Q=",
+    "/green": "sha256:KIcL2hs4SdfM/s/ywEqXFNng+Tv9WnyJHUK5p6GS/6Q="
+  },
+  "timestamp": "2026-05-28T13:44:57Z",
+  "github_actions": {
+    "run_url": "https://github.com/RDI-Foundation/mind2web2-agentbeats-leaderboard/actions/runs/26578417345",
+    "ref": "refs/pull/6/merge",
+    "sha": "a17d295d19c9eff8e40af298013cb13679e2a2c8",
+    "repository_url": "https://github.com/RDI-Foundation/mind2web2-agentbeats-leaderboard",
+    "workflow_ref": "RDI-Foundation/mind2web2-agentbeats-leaderboard/.github/workflows/quick-submit.yml@refs/pull/6/merge",
+    "workflow_sha": "a17d295d19c9eff8e40af298013cb13679e2a2c8"
+  }
+}
