@@ -1,0 +1,309 @@
+{
+  "status": "completed",
+  "participants": {
+    "green": "019dbae8-6669-7942-8297-9874a9ede67c",
+    "agent": "019e6830-77a6-7e82-a4dc-c0fe21058cd7"
+  },
+  "results": [
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "rhone_top_wine": 0.0,
+        "la_visit_hotel": 0.0,
+        "origami_chinese_zodiac": 0.0,
+        "find_puppies": 0.0,
+        "2024_film_premiere": 0.0,
+        "city_info": 0.0
+      },
+      "time_used": 300.4597704410553
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "active_stock": 0.0,
+        "oscar_A24": 0.0,
+        "cleveland_museum": 0.0,
+        "foster_dogs": 0.0,
+        "rick_and_morty_planets": 0.0,
+        "largest_city_flights": 0.0
+      },
+      "time_used": 300.4512941837311
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "rl_course_book": 0.0,
+        "closet_picks": 0.0,
+        "las_vegas_experience": 0.0,
+        "french_election_2022": 0.0,
+        "ai_job_seeking": 0.0,
+        "oscar_streaming": 0.0
+      },
+      "time_used": 300.48379349708557
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "conference_sponsor_search": 0.0,
+        "london_edinburgh_travel": 0.0,
+        "apple_watch": 0.0,
+        "game_awards": 0.0,
+        "search_disease": 0.0,
+        "paper_collaboration": 0.0
+      },
+      "time_used": 300.4980549812317
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "manhattan_restaurants": 0.0,
+        "artifact_repatriation": 0.0,
+        "gas_stations": 0.0,
+        "search_summarize_arxiv": 0.0,
+        "county_AQI": 0.0,
+        "perplexity_failure": 0.0
+      },
+      "time_used": 261.57271933555603
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "sephora_moistrizer": 0.0,
+        "coursera_uk": 0.0,
+        "baltimore_marc_station": 0.0,
+        "marijuana_caregiver": 0.0,
+        "pet_food_vet": 0.0,
+        "gcg_followup": 0.0
+      },
+      "time_used": 300.46467757225037
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "marvel_rivals": 0.0,
+        "goodreads_winner": 0.0,
+        "sim_racing_hardware": 0.0,
+        "phd_program_statistics": 0.0,
+        "best_selling_foundations": 0.0,
+        "cs_master_toefl": 0.0
+      },
+      "time_used": 268.3448326587677
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "han_alumni_academia": 0.0,
+        "solar_eclipses": 0.0,
+        "mazda_production": 0.0,
+        "blazer_allergy": 0.0,
+        "piano_concert": 0.0,
+        "cv_scholar": 0.0
+      },
+      "time_used": 300.46683406829834
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "plan_nlp_learning": 0.0,
+        "bls_occupations": 0.0,
+        "cyberpunk_music": 0.0,
+        "spinning_class": 0.0,
+        "heart_failure_doctor": 0.0,
+        "meditation_app": 0.0
+      },
+      "time_used": 300.4571430683136
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "plants_italy": 0.0,
+        "mllm_researcher": 0.0,
+        "hf_vqa_dataset": 0.0,
+        "boeing_swe_jobs": 0.0,
+        "dc_comics_injustice": 0.0,
+        "startups_series_b": 0.0
+      },
+      "time_used": 300.45428252220154
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "moroccan_couscous": 0.0,
+        "store_seattle": 0.0,
+        "houses_texas": 0.0,
+        "boston_celtics": 0.0,
+        "plastic_grades": 0.0,
+        "diseases_hospital": 0.0
+      },
+      "time_used": 300.4576756954193
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "hypeawards_twice_brand": 0.0,
+        "broadway_plan": 0.0,
+        "student_email": 0.0,
+        "drone_delivery": 0.0,
+        "music_price": 0.0,
+        "popular_ai_books": 0.0
+      },
+      "time_used": 300.46988224983215
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "ikea_shopping_list": 0.0,
+        "buy_kobe_shoes_reverse_swoosh": 0.0,
+        "pritzker_prize_winner": 0.0,
+        "edgar_books": 0.0,
+        "supreme_court_230": 0.0,
+        "nasa_launch_crew": 0.0
+      },
+      "time_used": 271.1466462612152
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "nba_career_high": 0.0,
+        "buy_stroller": 0.0,
+        "esport_player": 0.0,
+        "telescopes_list": 0.0,
+        "protein_vis_software": 0.0,
+        "ingredient_safety": 0.0
+      },
+      "time_used": 300.48530101776123
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "instrument_in_met": 0.0,
+        "buzzer_beater": 0.0,
+        "tennis_racket": 0.0,
+        "federal_reserve": 0.0,
+        "ra_vip_ticket": 0.0,
+        "nba_player_china_tour": 0.0
+      },
+      "time_used": 300.4936981201172
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "tesla_travel": 0.0,
+        "ios_num_iphone_model": 0.0,
+        "female_scholarships": 0.0,
+        "nintendo_games": 0.0,
+        "rag_repo": 0.0,
+        "captain_america_starring": 0.0
+      },
+      "time_used": 300.82169103622437
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "film_director": 0.0,
+        "car_insurance": 0.0,
+        "tofu_lunch": 0.0,
+        "jojo_references": 0.0,
+        "rare_disease": 0.0,
+        "nlp_faculty": 0.0
+      },
+      "time_used": 317.93805170059204
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "just_bieber_friend": 0.0,
+        "find_apartment": 0.0,
+        "cat_adoption": 0.0,
+        "nobel_nationalities": 0.0,
+        "tokyo_filming_location": 0.0,
+        "research_car": 0.0
+      },
+      "time_used": 335.58499336242676
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "top_gear_power_time_best": 0.0,
+        "just_dance": 0.0,
+        "chinese_dish": 0.0,
+        "nobel_scholar": 0.0,
+        "restaurant_tuesday": 0.0,
+        "find_bikes": 0.0
+      },
+      "time_used": 300.4476845264435
+    },
+    {
+      "domain": "test_set",
+      "score": 0.0,
+      "max_score": 6,
+      "avg_score": 0.0,
+      "task_scores": {
+        "openreview_papers": 0.0,
+        "kids_stem": 0.0,
+        "chris_evans": 0.0,
+        "wssa_female_65": 0.0,
+        "find_daycare": 0.0,
+        "review_articles_headphones": 0.0
+      },
+      "time_used": 291.9896261692047
+    }
+  ]
+}
