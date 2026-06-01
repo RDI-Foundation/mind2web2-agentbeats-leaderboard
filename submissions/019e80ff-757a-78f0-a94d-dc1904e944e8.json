@@ -1,0 +1,142 @@
+{
+  "manifest_version": "0.1.0",
+  "config_schema": {
+    "type": "object",
+    "properties": {
+      "agent_agent_llm": {
+        "type": "string",
+        "default": "gpt-4o-mini"
+      },
+      "agent_anthropic_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "agent_deepseek_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "agent_gemini_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "agent_llm_base_url": {
+        "type": "string",
+        "default": ""
+      },
+      "agent_llm_model": {
+        "type": "string",
+        "default": ""
+      },
+      "agent_openai_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "agent_openai_base_url": {
+        "type": "string",
+        "default": ""
+      },
+      "agent_openai_web_search_model": {
+        "type": "string",
+        "default": ""
+      },
+      "agent_openrouter_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "green_deepseek_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "green_gemini_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      },
+      "green_judge_llm": {
+        "type": "string",
+        "default": "openai/gpt-4o-mini"
+      },
+      "green_openai_api_key": {
+        "type": "string",
+        "secret": true,
+        "default": ""
+      }
+    },
+    "required": [],
+    "additionalProperties": false
+  },
+  "components": {
+    "gateway": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/agentbeats-gateway/refs/tags/v0.3/amber-manifest.json5",
+      "config": {
+        "assessment_config": {
+          "domain": "test_set"
+        },
+        "participant_roles": {
+          "green": "green",
+          "purple1": "agent"
+        },
+        "callback_urls": {}
+      }
+    },
+    "green": {
+      "manifest": "https://raw.githubusercontent.com/RDI-Foundation/mind2web2-agentbeats/refs/heads/main/amber/amber-manifest-green.json5",
+      "config": {
+        "deepseek_api_key": "${config.green_deepseek_api_key}",
+        "gemini_api_key": "${config.green_gemini_api_key}",
+        "judge_llm": "${config.green_judge_llm}",
+        "openai_api_key": "${config.green_openai_api_key}"
+      }
+    },
+    "agent": {
+      "manifest": "https://raw.githubusercontent.com/skyc5423/dalpha-agentbeats-purple/main/amber-manifest.json5",
+      "config": {
+        "agent_llm": "${config.agent_agent_llm}",
+        "anthropic_api_key": "${config.agent_anthropic_api_key}",
+        "deepseek_api_key": "${config.agent_deepseek_api_key}",
+        "gemini_api_key": "${config.agent_gemini_api_key}",
+        "llm_base_url": "${config.agent_llm_base_url}",
+        "llm_model": "${config.agent_llm_model}",
+        "openai_api_key": "${config.agent_openai_api_key}",
+        "openai_base_url": "${config.agent_openai_base_url}",
+        "openai_web_search_model": "${config.agent_openai_web_search_model}",
+        "openrouter_api_key": "${config.agent_openrouter_api_key}"
+      }
+    }
+  },
+  "bindings": [
+    {
+      "to": "#gateway.green",
+      "from": "#green.a2a"
+    },
+    {
+      "to": "#gateway.purple1",
+      "from": "#agent.a2a"
+    },
+    {
+      "to": "#green.proxy",
+      "from": "#gateway.proxy",
+      "weak": true
+    },
+    {
+      "to": "#agent.proxy",
+      "from": "#gateway.proxy",
+      "weak": true
+    }
+  ],
+  "exports": {
+    "results": "#gateway.results"
+  },
+  "metadata": {
+    "agentbeats_ids": {
+      "green": "019dbae8-6669-7942-8297-9874a9ede67c",
+      "agent": "019e6830-77a6-7e82-a4dc-c0fe21058cd7"
+    }
+  }
+}
